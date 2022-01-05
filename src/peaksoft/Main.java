@@ -22,5 +22,6 @@ public class Main {
     public static void main(String[] args) throws CantCastToInteger {
      Solution solution = new Solution();
         System.out.println(solution.romanToInt("MCMXCIV"));
+        System.out.println("hello");
     }
 }
